@@ -1,0 +1,3 @@
+class WordNet < ApplicationRecord
+
+end
